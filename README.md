@@ -262,12 +262,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-## Output screen shots of proteus  :
+## Output screen shots of proteus  
 
 ![WhatsApp Image 2025-04-23 at 9 56 23 AM](https://github.com/user-attachments/assets/2b60d901-ccbd-4f26-bc79-e4d36708421a)
 
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ ## CIRCUIT DIAGRAM  
 
 ![WhatsApp Image 2025-04-23 at 9 56 23 AM (1)](https://github.com/user-attachments/assets/e8a67f4e-9f19-4398-8e92-4de564caa600)
 
